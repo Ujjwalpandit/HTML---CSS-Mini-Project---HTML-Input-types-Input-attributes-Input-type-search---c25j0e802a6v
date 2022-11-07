@@ -1,1 +1,51 @@
-
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  h2 {
+    font-size: 125px;
+  }
+  
+  .section-background {
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .parallax {
+    background-image: url("https://joyful-axolotl-8cbd77.netlify.app/images/DSC_0475.JPG");
+  }
+  
+  .parallax1 {
+    background-image: url("https://joyful-axolotl-8cbd77.netlify.app/images/DSC_0475.JPG");
+  }
+  
+  .parallax2 {
+    background-image: url("https://joyful-axolotl-8cbd77.netlify.app/images/DSC_0475.JPG");
+  }
+  
+  .parallax3 {
+    background-image: url("https://joyful-axolotl-8cbd77.netlify.app/images/DSC_0475.JPG");
+  }
+  
+  .parallax4 {
+    background-image: url("https://joyful-axolotl-8cbd77.netlify.app/images/DSC_0475.JPG");
+  }
+  
+  .parallax5 {
+    background-image: url("https://joyful-axolotl-8cbd77.netlify.app/images/DSC_0475.JPG");
+  }
+  
+  .text-p p {
+    margin: 75px;
+    font-size: 22px;
+  }
